@@ -1,18 +1,58 @@
-<h1 align="center">Hi 👋, I'm Praful John</h1>
-<h3 align="center">A passionate backend developer</h3>
 
-- 🌱 I’m currently learning **Java Spring Boot**
+# Classification Projects
 
-- 💬 Ask me about **C++,Java,SQL**
+Welcome to the repository for my classification projects! This repository contains two different classification models: Rock or Mine Prediction and Diabetes Prediction. Each project is designed to tackle a unique problem using machine learning techniques.
 
-- 📫 How to reach me **praful.john2409@gmail.com**
+## Rock vs Mine Prediction
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@43praful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@43praful" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/praful-john-a287ba1a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/praful-john-a287ba1a4" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/pj2409/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/pj2409/" height="30" width="40" /></a>
-</p>
+### Overview
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+The Rock or Mine Prediction project aims to classify whether a given instance is a rock or a mine based on its features. This type of classification problem is often used in mining and geolocation applications to differentiate between safe and hazardous objects.
+
+### Features
+
+- **Dataset**: The dataset used for training and testing the model includes various features that describe the characteristics of rocks and mines.
+- **Algorithms**: Various classification algorithms have been implemented, including Logistic Regression, Decision Trees, and Random Forests.
+- **Evaluation Metrics**: Accuracy, Precision, Recall, and F1 Score are used to evaluate model performance.
+
+### Getting Started
+
+1. **Clone the Repository**
+
+   ```bash
+   git clone [https://github.com/Praful-John2409/projects-on-classification.git]
+   ```
+
+
+## Diabetes Prediction
+
+### Overview
+
+The Diabetes Prediction project is focused on predicting the likelihood of diabetes based on various health-related features. This model can be used to identify individuals at risk and potentially assist in early diagnosis and intervention.
+
+### Features
+
+- **Dataset**: The dataset includes medical attributes such as blood pressure, BMI, and glucose levels.
+- **Algorithms**: Implemented algorithms include Logistic Regression, K-Nearest Neighbors, and Support Vector Machines.
+- **Evaluation Metrics**: The performance is evaluated using Accuracy, ROC AUC Score, and Confusion Matrix.
+
+### Getting Started
+
+1. **Clone the Repository**
+
+   ```bash
+   git clone [https://github.com/Praful-John2409/projects-on-classification.git]
+   ```
+
+
+## Contributing
+
+Feel free to contribute to these projects by submitting issues, making pull requests, or providing feedback. Your contributions are greatly appreciated!
+
+## License
+
+These projects are licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+---
+
+Feel free to customize this template according to the specifics of your projects and any additional details you might want to include.
